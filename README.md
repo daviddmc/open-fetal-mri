@@ -39,6 +39,7 @@ awesome open source tools for fetal MRI analysis
 - https://github.com/chrisorozco1097/masking_tool
 - https://github.com/wulalago/FetalCPSeg
 - https://github.com/jwhong1125/fetal_CP_segmentation
+- https://github.com/gift-surg/FetalBrainParcellation
 
 ## Super-resolution
 

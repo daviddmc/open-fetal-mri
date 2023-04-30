@@ -12,13 +12,20 @@ awesome open source tools for fetal MRI analysis
 
 ## 3D Reconstruction
 
+- https://github.com/daviddmc/NeSVoR
 - [gift-surg/NiftyMIC](https://github.com/gift-surg/NiftyMIC)
 - [bkainz/fetalReconstruction](https://github.com/bkainz/fetalReconstruction)
 - [SVRTK](https://github.com/SVRTK/SVRTK)
+- https://github.com/Medical-Image-Analysis-Laboratory/mialsuperresolutiontoolkit
+- https://github.com/ilegorreta/Automatic-Fetal-Brain-Reconstruction-Pipeline
 
 ## Slice-to-Volume Registration
 
 - https://github.com/daviddmc/SVoRT
+- https://github.com/allard-shi/affirm
+- https://github.com/farrell236/SVRnet
+- https://github.com/bchimagine/DeepPredictiveMotionTracking
+- https://github.com/SadeghMSalehi/DeepRegistration
 
 ## Quality Assessment
 
@@ -29,6 +36,9 @@ awesome open source tools for fetal MRI analysis
 
 - [LucasFidon/trustworthy-ai-fetal-brain-segmentation](https://github.com/LucasFidon/trustworthy-ai-fetal-brain-segmentation)
 - [gift-surg/MONAIfbs](https://github.com/gift-surg/MONAIfbs)
+- https://github.com/chrisorozco1097/masking_tool
+- https://github.com/wulalago/FetalCPSeg
+- https://github.com/jwhong1125/fetal_CP_segmentation
 
 ## Super-resolution
 

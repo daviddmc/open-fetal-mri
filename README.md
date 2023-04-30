@@ -18,6 +18,7 @@ awesome open source tools for fetal MRI analysis
 - [SVRTK](https://github.com/SVRTK/SVRTK)
 - https://github.com/Medical-Image-Analysis-Laboratory/mialsuperresolutiontoolkit
 - https://github.com/ilegorreta/Automatic-Fetal-Brain-Reconstruction-Pipeline
+- https://github.com/lcorgra/RGDSVR
 
 ## Slice-to-Volume Registration
 
